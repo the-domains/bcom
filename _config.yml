@@ -1,7 +1,7 @@
 name: BCOM
 favicon: null
-layout_spectrum: 0.5095250564627349
-typography_spectrum: 0.6838073753751814
+layout_spectrum: 0.53381
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
